@@ -1,0 +1,28 @@
+/* je mets du style à la classe à la classe button-close que j'ai créee dans js */
+
+.button-close {
+    width: 10rem;
+    margin: auto;
+    display: block;
+    height: 2.5rem;
+    line-height: 0rem;
+}
+
+
+/* je mets du style à la classe à la classe .form-retour, button-close, créee dans js */
+
+.form-retour,
+.button-close {
+    margin-top: 15rem;
+    text-align: center;
+}
+
+
+/* je mets du style à la classe à la classe erreur-label créee dans js */
+
+.erreur-label {
+    font-size: 0.8rem;
+    color: rgb(235, 80, 80);
+    display: none;
+    font-weight: 100;
+}
